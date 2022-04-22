@@ -17,6 +17,6 @@ The [groovy script](https://github.com/kamalaweenat/jenkins-project/blob/3b802fc
 
 The script source code for each one of the C, Python, Shell exists on the GitHub,
 
-If Jenkins notices any changes on the GitHub it immediately runs the pipeline (this is done by identifying cron job every minute)
+If Jenkins notices any changes on the GitHub it immediately runs the pipeline (this is done by identifying cron job every minute)<br>
 Another option is to run the pipeline manually..
 
